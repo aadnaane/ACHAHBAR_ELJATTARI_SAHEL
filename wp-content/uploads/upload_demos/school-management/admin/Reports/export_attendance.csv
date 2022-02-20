@@ -1,0 +1,8 @@
+"Roll No","Student Name",User_id,Class_name,Class_id,Attend_by_name,Attend_by,Attendence_date,Status,Role_name,Comment
+5555,"maulik patel",10,SSC,2,admin,1,2021-08-13,Absent,student,
+22222,"manish dutt",8,SSC,2,admin,1,2021-08-13,Present,student,
+66666,"testt test",19,SSC,2,admin,1,2021-08-13,Present,student,
+22222,"manish dutt",8,SSC,2,admin,1,2021-08-21,Present,student,
+5555,"maulik patel",10,SSC,2,admin,1,2021-08-21,Present,student,
+66666,"testt test",19,SSC,2,admin,1,2021-08-21,Present,student,
+dhhyy,"tina gross",22,SSC,2,admin,1,2021-08-21,Present,student,
